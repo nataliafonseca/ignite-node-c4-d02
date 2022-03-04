@@ -4,7 +4,7 @@ _( Ignite | NodeJS | Capítulo IV | Desafio 02 )_
 
 Desafio 02 do capítulo IV da trilha NodeJS do bootcamp Ignite, da Rocketseat.
 
-## O desafio: Testes unitários
+## O desafio: Testes de integração
 
 O objetivo desse desafio é criar testes de integração para uma aplicação já pronta.
 
